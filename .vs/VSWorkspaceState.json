@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\classifier",
+    "\\data",
+    "\\data\\GYAFC",
+    "\\data\\yelp",
+    "\\data\\yelp\\tsf_template",
+    "\\nmt",
+    "\\nmt\\__pycache__",
+    "\\utils"
+  ],
+  "SelectedNode": "\\classifier\\textcnn.py",
+  "PreviewInSolutionExplorer": false
+}
